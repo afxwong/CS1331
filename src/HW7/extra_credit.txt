@@ -1,0 +1,5 @@
+I added two elements to the game for extra credit.
+1) Introduction screen
+    In order to create an intro screen I had to create a separate new starting scene. This is the one that initially loads. Included is a button that sets a new scene onto the stage and takes the user to the actual game.
+2) Image
+    For the image, I pulled a relevant picture from the internet and placed it on the intro screen scene described above. I used the Image, ImageView, and Group classes in order to do this.
